@@ -18,6 +18,7 @@
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat) 
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat)  
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)  
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat)
 
 
 ## 📫 How to reach me  
