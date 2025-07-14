@@ -1,6 +1,6 @@
-# Fakher Ben Neila
+# Fakher Ben Neila | Front-End Developer at @Tachafy
 
-🚀  Web Developer | Software Engineering Student  |Front-End Developer at @Tachafy
+🚀  Web Developer | Software Engineering Student  
 🎯 Passionate about Ui/Ux Design, and AI  
 
 
